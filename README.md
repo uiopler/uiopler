@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**uiopler/uiopler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a 15 year old `Developer` from `Lebanon`, learning `Discord.py`, `Django`, and `HTML/CSS` | Mainly Focusing on `Python`
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### About Me
+
+- ⚙️ I use daily: `.py`, `.html`, `.css`, and sometimes `.js`
+- 🌍 Interested in: `Python`, `Discord Bots`, `APIs`, 
+- 🌱 Tools I use daily: `VS Code`, `Replit.com`, `Git`, `PyCharm`, `Adobe Photoshop`
+- ⚡️ Founder at Nizon Inc , UIONOX Official 
+- 📫 Reach me: [twitter](https://twitter.com/uiopler_dev) | [discord](https://discord.com/users/834357440584876062)
+
+##### Contact Me
+
+- Email: uiopler.dev@gmail.com (business inquiries only)
+- Discord: uiopler#6948
+
+
