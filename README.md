@@ -25,4 +25,9 @@
 - Email: uiopler@nizon.xyz (concerning Nizon Inc only)
 - Discord: `uiopler#6948`
 
+#### Extra Note
+
+- 👨‍💻 `yk im a good dev cuz cat pfp`
+- 🐱 Cats are godly
+
 
