@@ -11,11 +11,13 @@
 - 📫 Reach me: [discord](https://discord.com/users/834357440584876062)
 
 #### Services I Provide
-`
+
 - 🤖 `Discord Bots` [PAID] - Contact on discord for price info
-- 🎨 `UI Packed` Discord Bots with premium and up to date commands
-- 🚀 `Optimized` for your needs
+- 🎨 `UI Enhanced` Discord Bots with a `UI so clean`, the users will start cleaning
+- 📃 `Jam Packed` with up to date `premium` features  
+- 🚀 `Optimized` for your `needs`
 - 💸 `High quality` for low `Prices` [Open for negotiation] 
+- 💘 `Most importantly`, all bots are made with `love`
 
 ##### Contact Me
 
