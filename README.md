@@ -27,7 +27,7 @@
 
 #### Extra Note
 
-- 👨‍💻 `yk im a good dev cuz cat pfp`
-- 🐱 Cats are godly
+- 👨‍💻 `yk im a good dev cuz cat pfp `
+
 
 
