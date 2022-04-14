@@ -21,7 +21,8 @@
 
 ##### Contact Me
 
-- Email: uiopler.dev@gmail.com (business inquiries only)
+- Email: uiopler.dev@gmail.com
+- Email: contact@uiopler.cf (business only)
 - Email: uiopler@nizon.xyz (concerning Nizon Inc only)
 - Discord: `uiopler#6948`
 
