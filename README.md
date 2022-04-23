@@ -6,9 +6,7 @@
 
 - ⚙️ I code in: `.py`, `.html`, `.css`, and rarely `.js`
 - 🌍 Interested in: `Python`, `Discord Bots`, `APIs`,  and `Discord.UI`
-- 🌱 Tools I use daily: `VS Code`, `Replit.com`, `Discord Developer Portal`, `Github`, `Microsoft To Do`
-- ⚡️ Founder at `Nizon Inc` and `UIONOX Official` 
-- 📫 Reach me: [discord](https://discord.com/users/834357440584876062)
+- 🌱 Tools I use daily: `VS Code`, `Replit.com`, `Discord Developer Portal`, `Github`, `Microsoft To Do` 
 
 #### Services I Provide
 
@@ -19,12 +17,9 @@
 - 💸 `High quality` for low `Prices` [Open for negotiation] 
 - 💘 `Most importantly`, all bots are made with `love`
 
-##### Contact Me
+#### Website
 
-- Email: uiopler.dev@gmail.com
-- Email: contact@uiopler.cf (business only)
-- Email: uiopler@nizon.xyz (concerning Nizon Inc only)
-- Discord: `uiopler#6948`
+- https://uiopler.cf
 
 #### Extra Note
 
