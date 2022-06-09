@@ -11,7 +11,7 @@
 #### Services I Provide
 
 - 🤖 `Discord Bots` [PAID] - Contact on discord for price info
-- 🎨 `UI Enhanced` Discord Bots with a `UI so clean`, the users will start cleaning
+- 🎨 `UI Enhanced` Discord Bots with a `UI so clean`, it wont even look like a discord bot
 - 📃 `Jam Packed` with up to date `premium` features  
 - 🚀 `Optimized` for your `needs`
 - 💸 `High quality` for low `Prices` [Open for negotiation] 
