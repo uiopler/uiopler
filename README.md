@@ -6,7 +6,7 @@
 
 - ⚙️ I code in: `.py`, `.html`, `.css`, and rarely `.js`
 - 🌍 Interested in: `Python`, `Discord Bots`, `APIs`,  and `Discord.UI`
-- 🌱 Tools I use daily: `VS Code`, `Replit.com`, `Discord Developer Portal`, `Github`, `Microsoft To Do` 
+- 🌱 Tools I use daily: `VS Code`, `Github Copilot`, `Discord Developer Portal`, `Github`, `Terminal` 
 
 #### Services I Provide
 
