@@ -6,7 +6,7 @@ I build with **Python**, focus on **security**, and have solid experience creati
 ---
 
 ### 🔹 About
-- Interested in security and automation  
+- Interested in security, automation, servers and IT   
 - Experienced in building scalable Discord bots  
 - Always learning and experimenting with new tools  
 
