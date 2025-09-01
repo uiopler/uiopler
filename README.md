@@ -1,29 +1,27 @@
-### Hi there 👋, im uiopler [He|Him]
+# uiopler
 
-#### I'm a 15 year old `Developer` from `Lebanon`, learning `Discord.py`, `Django`, and `HTML/CSS` | Mainly Focusing on `Python`
+19 y/o developer from Lebanon.  
+I build with **Python**, focus on **security**, and have solid experience creating **Discord bots**.  
 
-##### About Me
+---
 
-- ⚙️ I code in: `.py`
-- 🌍 Interested in: `Python`, `Discord Bots`, `APIs`,  and `Security`
-- 🌱 Tools I use daily: `VS Code`, `Git`, `Discord Developer Portal`, `Github`, `Terminal` 
+### 🔹 About
+- Interested in security and automation  
+- Experienced in building scalable Discord bots  
+- Always learning and experimenting with new tools  
 
-#### Services I Provide
+---
 
-- 🤖 `Discord Bots` [PAID] - Contact on discord for price info
-- 🎨 `UI Enhanced` Discord Bots with a `UI so clean`, it wont even look like a discord bot
-- 📃 `Jam Packed` with up to date `premium` features  
-- 🚀 `Optimized` for your `needs`
-- 💸 `High quality` for low `Prices` [Open for negotiation] 
-- 💘 `Most importantly`, all bots are made with `love`
+### 🔹 Tech
+- **Languages:** Python  
+- **Frameworks / Libraries:** pycord, pymongo, flask  
+- **Tools:** Git, Linux, VS Code  
 
-#### Website
+---
 
-- https://uiopler.cf
+### 🔹 Links
+- 🌐 [uiopler.is-a.dev](https://uiopler.is-a.dev)  
+- 🐙 [GitHub](https://github.com/uiopler)  
 
-#### Extra Note
-
-- 👨‍💻 `yk im a good dev cuz cat pfp `
-
-
+---
 
