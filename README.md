@@ -1,7 +1,7 @@
 # uiopler
 
-19 y/o developer from Lebanon.  
-I build with **Python**, focus on **security**, and have solid experience creating **Discord bots**.  
+20 y/o developer from Lebanon.  
+I build with **Python**, focus on **Data management**, and have solid experience creating **mutli-user systems**.  
 
 ---
 
